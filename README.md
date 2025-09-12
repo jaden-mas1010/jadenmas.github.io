@@ -34,13 +34,6 @@ I aim to strengthen organizational security and grow as a professional in both *
 
 ---
 
-## 📊 GitHub Stats
-![Jaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaden-mas1010&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaden-mas1010&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaden-mas1010&theme=radical&hide_border=true)
-
----
-
 ## ⚽ Extracurricular Activities
 - Played **District-level Football** (school + club tournaments, Nashik, Maharashtra)  
 - Volunteered in **FIFA U17 Women’s World Cup 2022**  
