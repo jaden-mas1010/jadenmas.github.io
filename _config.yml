@@ -1,25 +1,5 @@
 # _config.yml
 title: "Jaden Mascarenhas Portfolio"
 description: "Portfolio website showcasing my skills, projects, and experience."
-theme: architect
+theme: jekyll-theme-minimal
 url: "https://jaden-mas1010.github.io"
-
-# Optional settings
-author: "Jaden Mascarenhas"
-email: "jadenmascarenhas9@gmail.com"
-github_username: "jaden-mas1010"
-
-# Navigation links
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
-  - contact.md
-
-# Markdown options
-markdown: kramdown
-
-# Plugins (if needed)
-plugins:
-  - jekyll-feed
-
