@@ -46,8 +46,8 @@ I aim to strengthen organizational security and grow as a professional in both *
 ## 🚀 Projects
 - 🛒 **[Shopping Cart Project](https://github.com/teamletsplay/e-commerce-website)** – Vanilla JS, HTML, CSS  
 - 🔎 **[Port Scanner](https://github.com/jaden-mas1010/port-scanner)** – Python tool to scan open ports and identify vulnerabilities  
-- 📱 **Bluetooth Payment App** – Secure payment system using Bluetooth  
-- 🛫 **Aviation Ground Handling Website** – Web app for aviation ground operations management  
+- 📱 **[Bluetooth Payment App](https://github.com/jaden-mas1010/Bluetooth-payment-app)** – Secure payment system using Bluetooth  
+- 🛫 **[Aviation Ground Handling Website](https://github.com/jaden-mas1010/Aviation-Ground-Handling-Website)** – Web app for aviation ground operations management  
 - 💰 **[Finance Tracker](https://github.com/jaden-mas1010/Finance-Tracker)** – Expense and budget management tool  
 
 ---
