@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=mesh&color=0:0f2027,1:203a43,100:2c5364&height=200&section=header&text=Jaden%20Mascarenhas&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=200&section=header&text=Jaden%20Mascarenhas&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">👨‍💻 Jaden Julius Mascarenhas</h1>
 <p align="center">
