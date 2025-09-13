@@ -1,54 +1,109 @@
+<!-- Banner -->
+![Cybersecurity Banner](https://via.placeholder.com/1200x280.png?text=🔐+Jaden+Julius+Mascarenhas+|+Cybersecurity+Professional+|+Developer)
 
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=200&section=header&text=Jaden%20Mascarenhas&fontSize=40&fontColor=ffffff)
+<h1 align="center">👨‍💻 Jaden Julius Mascarenhas</h1>
+<p align="center">
+  <b>Cybersecurity Professional | Offensive & Defensive Security | Software Developer | 💻 Web Developer | ⚽ Football Player  </b>
+</p>
 
-# 👨‍💻 Jaden Julius Mascarenhas  
-🔐 Cybersecurity Enthusiast | 💻 Web Developer | ⚽ Football Player  
-
----
-
-## 🎯 Career Objective
-To leverage my skills in **cybersecurity** with a focus on both **offensive and defensive security**.  
-Experienced in **penetration testing, bug bounty hunting, and threat identification**, while also building expertise in **incident response, monitoring, and system hardening**.  
-I aim to strengthen organizational security and grow as a professional in both **Red Team** and **Blue Team** practices.  
-
----
-
-## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+<p align="center">
+  <a href="mailto:jadenmascarenhas9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/jaden-mascarenhass-989b6a254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/jaden-mas1010"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-## 🚀 Projects
-| Project | Description | Links |
-|---------|-------------|-------|
+## 🌐 Introduction  
+
+I am a **dedicated and passionate cybersecurity professional** with a strong commitment to protecting digital environments.  
+⚡ Skilled in **offensive security (pentesting, bug bounty)** and **defensive security (incident response, system hardening)**.  
+💡 Driven by **problem-solving, continuous learning, and ethical leadership**.  
+
+---
+
+## 🛡️ Core Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-🔐-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-🖥️-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-⚡-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-🐧-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-📊-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+- **Cybersecurity:** Risk Management, Vulnerability Assessments, Ethical Hacking, Incident Response, Linux CLI  
+- **Development:** Python (automation & security), PHP (CodeIgniter), JavaScript, HTML, CSS, Angular  
+- **Databases:** SQL, MySQL, PostgreSQL  
+- **Soft Skills:** Leadership, Communication, Public Speaking, Team Collaboration  
+
+---
+
+## 💼 Experience  
+
+### 💻 Web Development Intern – *Stanza Infotech Pvt. Ltd., Ponda*  
+*(June 2022 – Aug 2022)*  
+- Built a **scalable e-commerce website** using CodeIgniter, PHP, MySQL, JS, Angular.  
+- Designed authentication, product management & payment modules.  
+- Applied **secure coding practices** for application hardening.  
+
+---
+
+### 🖥️ Software Development Intern – *Tanayanand Pvt. Ltd.*  
+*(Jan 2023 – Mar 2023)*  
+- Contributed to **application design, coding, and testing**.  
+- Worked across the **software development lifecycle**.  
+- Improved **collaboration and problem-solving** in a professional environment.  
+
+---
+
+## 🚀 Projects  
 | 🔎 **Port Scanner** | Python tool to scan open ports and identify vulnerabilities | [GitHub](https://github.com/jaden-mas1010/port-scanner) |
-| 🛒 **eCommerce Website** | Responsive online shopping platform built with HTML, CSS, JS | [GitHub](https://github.com/jaden-mas1010/ecommerce-website) • [Live Demo](https://jaden-mas1010.github.io/ecommerce-website) |
-| 💰 **Finance Tracker** | Track daily expenses & manage budgets effectively | [GitHub](https://github.com/jaden-mas1010/Finance-Tracker) • [Live Demo](https://jaden-mas1010.github.io/Finance-Tracker) |
+| 🛒 **eCommerce Website** | Responsive online shopping platform built with HTML, CSS, JS | [GitHub](https://github.com/jaden-mas1010/ecommerce-website) 
+| 💰 **Finance Tracker** | Track daily expenses & manage budgets effectively | [GitHub](https://github.com/jaden-mas1010/Finance-Tracker)
 | 📱 **Bluetooth Payment App** | Secure payment system using Bluetooth | [GitHub](https://github.com/jaden-mas1010/Bluetooth-payment-app) |
-| 🛫 **Aviation Ground Handling Website** | Web app for aviation ground operations management | [GitHub](https://github.com/jaden-mas1010/Aviation-Ground-Handling-Website) |
+| 🛫 **Aviation Ground Handling Website** | Web app for aviation ground operations management | [GitHub](https://github.com/jaden-mas1010/Aviation-Ground-Handling-Website)
 
 ---
 
-## ⚽ Extracurricular Activities
-- Played **District-level Football** (school + club tournaments, Nashik, Maharashtra)  
-- Volunteered in **FIFA U17 Women’s World Cup 2022**  
-- Active in college volunteering and tech events  
+## 🎓 Education  
+
+🎓 **B.E. Engineering (2024)** – Don Bosco Engineering College, Fatorda (Goa University)  
+🎓 **HSC (2020)** – Don Bosco Junior College, Nashik  
+🎓 **ICSE (2018)** – Barnes School, Nashik  
 
 ---
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-mascarenhass-989b6a254/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaden-mas1010)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadenmascarenhas9@gmail.com)  
+## 🏆 Certifications  
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaden-mas1010&label=Profile%20Views&color=blue&style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/ISC²-Certified%20in%20Cybersecurity%20(CC)-2E8B57?style=for-the-badge&logo=isc2&logoColor=white">
+</p>
+
+- **ISC² Certified in Cybersecurity (CC)**  
+- Familiar with frameworks: **NIST, ISO 27001**  
+- Hands-on with: **Firewalls, IDS, SIEM, Encryption Tools**  
 
 ---
 
-⭐ *“Always exploring, always building, always securing.”*  
+## ⚽ Beyond Tech  
+
+⚽ District-level **Football Player** (Nashik, Maharashtra)  
+🌍 Volunteer at **FIFA U17 Women’s World Cup 2022**  
+📚 Interests: Football, Reading, Trekking, Music  
+
+---
+
+## ✨ Professional Vision  
+
+> *“Cybersecurity is not just a job; it is a responsibility to protect identities and critical data.  
+I aim to be a proactive force in building safer digital spaces, combining **technical expertise with ethical leadership** to ensure trust and resilience in the modern world.”*  
+
+---
+
+
+
+
+--------------------------------------------
+
