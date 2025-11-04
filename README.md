@@ -81,7 +81,8 @@ I am a **dedicated and passionate cybersecurity professional** with a strong com
   <img src="https://img.shields.io/badge/ISC²-Certified%20in%20Cybersecurity%20(CC)-2E8B57?style=for-the-badge&logo=isc2&logoColor=white">
 </p>
 
-- **ISC² Certified in Cybersecurity (CC)**  
+- **ISC² Certified in Cybersecurity (CC)**
+- **Google professional Cybersecurity Professional** 
 - Familiar with frameworks: **NIST, ISO 27001**  
 - Hands-on with: **Firewalls, IDS, SIEM, Encryption Tools**  
 
