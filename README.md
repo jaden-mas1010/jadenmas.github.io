@@ -40,32 +40,55 @@ I am a **dedicated and passionate cybersecurity professional** with a strong com
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
 ### 💻 Web Development Intern – *Stanza Infotech Pvt. Ltd., Ponda*  
-*(June 2022 – Aug 2022)*  
-- Built a **scalable e-commerce website** using CodeIgniter, PHP, MySQL, JS, Angular.  
-- Designed authentication, product management & payment modules.  
-- Applied **secure coding practices** for application hardening.  
-
----
+*June 2022 – Aug 2022*  
+- Developed a **secure, scalable e-commerce website** using **CodeIgniter, PHP, MySQL, JavaScript, and Angular**.  
+- Designed and implemented **authentication, product management, and payment modules**, reducing potential security vulnerabilities.  
+- Collaborated with a team of 4 to **deliver the project on schedule**, applying **secure coding practices** and version control with Git.  
 
 ### 🖥️ Software Development Intern – *Tanayanand Pvt. Ltd.*  
-*(Jan 2023 – Mar 2023)*  
-- Contributed to **application design, coding, and testing**.  
-- Worked across the **software development lifecycle**.  
-- Improved **collaboration and problem-solving** in a professional environment.  
+*Jan 2023 – Mar 2023*  
+- Contributed to the **full software development lifecycle** of web applications, including **design, coding, testing, and debugging**.  
+- Optimized database queries and application workflows to **improve performance and reliability**.  
+- Enhanced **team collaboration and problem-solving skills**, using Git for version control and Agile methodology for task management.
 
 ---
+ 
+## 🚀 Key Cybersecurity Projects
 
-## 🚀 Projects  
-| 🔎 **Port Scanner** | Python tool to scan open ports and identify vulnerabilities | [GitHub](https://github.com/jaden-mas1010/port-scanner) |
-| 🛒 **eCommerce Website** | Responsive online shopping platform built with HTML, CSS, JS | [GitHub](https://github.com/jaden-mas1010/ecommerce-website) 
-| 💰 **Finance Tracker** | Track daily expenses & manage budgets effectively | [GitHub](https://github.com/jaden-mas1010/Finance-Tracker)
-| 📱 **Bluetooth Payment App** | Secure payment system using Bluetooth | [GitHub](https://github.com/jaden-mas1010/Bluetooth-payment-app) |
-| 🛫 **Aviation Ground Handling Website** | Web app for aviation ground operations management | [GitHub](https://github.com/jaden-mas1010/Aviation-Ground-Handling-Website)
+### Suricata Lab
+[GitHub Repository](https://github.com/jadenmas/suricata-lab)  
+- Built a lab using Suricata IDS to detect and analyse simulated network attacks.  
+- Created custom detection rules and tested alert accuracy.  
+- Documented workflows for incident reporting and threat analysis.
 
----
+### File Integrity Hash Lab
+[GitHub Repository](https://github.com/jadenmas/file-integrity-hash-lab)  
+- Developed a Python/Linux lab to verify file integrity using SHA-256 hashes.  
+- Automated detection of unauthorized file changes for system monitoring.
+
+### Incident Report Analysis
+[GitHub Repository](https://github.com/jadenmas/incident-report-analysis)  
+- Analysed cybersecurity incidents from Google Cybersecurity Certificate exercises.  
+- Created structured reports including root cause, impact, and remediation steps.
+
+### Regex IP Log Analysis
+[GitHub Repository](https://github.com/jadenmas/regex-ip-log-analysis)  
+- Built a Python script to parse log files and extract suspicious IPs using regex.  
+- Filtered false positives and generated structured SOC-style reports.
+
+### Port Scanner
+[GitHub Repository](https://github.com/jadenmas/port-scanner)  
+- Developed a Python tool to scan open ports and identify potential vulnerabilities.  
+- Implemented banner grabbing, error handling, and rate limiting for safe reconnaissance.
+
+### Shamir Secret Sharing
+[GitHub Repository](https://github.com/jadenmas/shamir-secret-sharing)  
+- Implemented Shamir’s Secret Sharing algorithm for secure key distribution.  
+- Enabled splitting and reconstruction of secrets among multiple stakeholders.
+
 
 ## 🎓 Education  
 
@@ -82,7 +105,8 @@ I am a **dedicated and passionate cybersecurity professional** with a strong com
 </p>
 
 - **ISC² Certified in Cybersecurity (CC)**
-- **Google professional Cybersecurity Professional** 
+- **Google professional Cybersecurity Certification**
+- **CompTIA Security+ (Exam Scheduled: Dec 2025) – Preparing for official certification.
 - Familiar with frameworks: **NIST, ISO 27001**  
 - Hands-on with: **Firewalls, IDS, SIEM, Encryption Tools**  
 
